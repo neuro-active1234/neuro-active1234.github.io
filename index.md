@@ -1,4 +1,3 @@
-layout: default
 私の日記
 これまでの日記一覧です。
 {% for post in site.posts %}
